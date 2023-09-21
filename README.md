@@ -1,1 +1,2 @@
 # Image-Search-Engine
+The Image Search Engine is a web application that allows users to search for images based on keywords. It leverages the Unsplash API, a popular platform for high-quality images. Users can enter a search query in the provided input box and initiate a search by hitting the "Search" button. The application fetches a set of images relevant to the query from Unsplash and displays them in an organized manner.
